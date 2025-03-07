@@ -41,9 +41,9 @@ https://uhh.cybdyn.com/               <br>
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 #### Status: Flourishing :100:
 **March 7 Links (3+):** <br>
-https://edu.defdc.com/
-https://tststststststststststststststststststststs.zavoj.ch/
-https://mynameis.veronicabazan.cl/
+https://edu.defdc.com/  <br>
+https://tststststststststststststststststststststs.zavoj.ch/    <br>
+https://mynameis.veronicabazan.cl/     <br>
 
 
 
