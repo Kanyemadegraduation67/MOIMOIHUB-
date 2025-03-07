@@ -31,10 +31,11 @@ Unstable / Varying :grimacing: - most links work, some are down, site sometimes 
 Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop working.  <br>
 Fresh :sunglasses: - The site was recently made and newly added! <br>
 
-- **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps -  proxy | Status: Stable :white_check_mark:
+- **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps -  Proxy | Status: Stable :white_check_mark:
 - **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **2+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
-- **2+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
+- **3+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
+- **2+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
 
   
 
@@ -61,9 +62,15 @@ https://friends-are.awesome.yukon.ar/ <br>
 
 ### Utopia Proxy | Proxy, Games, ChatGPT 4
 #### Status: Flourishing :100:
-**March 7 Links (2+):** <br>
+**March 7 Links (3+):** <br>
 https://sakosako.kaiak.top/ <br>
 https://in.thepad.net    <br>
+https://work.veronicabazan.cl/ <br>
+
+### Waves | Proxy, AI, Apps, Games
+#### Status: Fresh :sunglasses: 
+
+
 
 
 
