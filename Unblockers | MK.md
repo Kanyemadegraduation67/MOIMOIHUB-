@@ -33,7 +33,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 
 - **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
-- **1+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status: Flourishing :100:
+- **1+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:Fresh  :sunglasses:
 
   
 
@@ -53,7 +53,7 @@ https://mynameis.veronicabazan.cl/     <br>
 
 ### Lunar Unblocker | Proxy, Games, Apps
 Go to Settings Proxys and Switch to Scramjet for a better experience.
-#### Status: Flourishing :100:
+#### Status:   Fresh :sunglasses:
 **March 7 Links (1+):** <br>
 https://lunaron.top <br>
 
