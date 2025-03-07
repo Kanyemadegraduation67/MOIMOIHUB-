@@ -3,12 +3,10 @@
 This is a collection of all the Unblocked Proxy Links that I could find specifically for Lightspeed.
 
 
-This will be Updated Daily.
+This will be Updated Daily. <br>
 
-Made by A 7th Grader.
+**(Proxies) with Games, AI, and Apps:** Go [here](https://github.com/Mikhail110/LightspeedProxies/blob/main/Unblockers%20%7C%20MK.md) or to the mainUnblockers file <br> <br>
 
+DM me on Discord if you need anything [redokamihdalgo8584] <br>
 
-
-DM me on Discord if you need anything [redokamihdalgo8584]
-
-If any of the Links arent working make sure to open a Issue and Lmk.
+If any of the Links arent working make sure to open a Issue and Lmk.  <br?
