@@ -31,8 +31,8 @@ Unstable / Varying :grimacing: - most links work, some are down, site sometimes 
 Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop working.  <br>
 Fresh :sunglasses: - The site was recently made and newly added! <br>
 
-- **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
-- **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
+- **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Status: Stable :white_check_mark:
+- **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **2+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
 
   
@@ -57,6 +57,9 @@ Go to Settings Proxys and Switch to Scramjet for a better experience.
 **March 7 Links (1+):** <br>
 https://lunaron.top <br>
 https://friends-are.awesome.yukon.ar/ <br?
+
+### Utopia Proxy | Proxy, Games, ChatGPT-4o
+#### Status: Flourishing :100:
 
 
 
