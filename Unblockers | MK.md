@@ -68,7 +68,9 @@ https://in.thepad.net    <br>
 https://work.veronicabazan.cl/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
-#### Status: Fresh :sunglasses: 
+#### Status: Fresh :sunglasses:
+**March 7 Links (1+):** <br>
+https://usewaves.site/ <br>
 
 
 
