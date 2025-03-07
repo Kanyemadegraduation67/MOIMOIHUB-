@@ -31,21 +31,22 @@ Unstable / Varying :grimacing: - most links work, some are down, site sometimes 
 Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop working.  <br>
 Fresh :sunglasses: - The site was recently made and newly added! <br>
 
-- **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Status: Stable :white_check_mark:
+- **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps -  proxy | Status: Stable :white_check_mark:
 - **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **2+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
+- **2+** [**Utopia Unblocker**](#utopia-unblocker--proxy-games-chatgpt-4o) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
 
   
 
 ### Doge Unblocker | Proxy, Games, Apps
-#### Status: Flourishing :100: 
+#### Status: Stable :100: 
 Disclaimer: Has ads <br>
 **March 7 Links (2+):** <br>
 https://again.devmon.ru/           <br>
 https://uhh.cybdyn.com/               <br>
 
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
-#### Status: Flourishing :100:
+#### Status: Stable :white_check_mark:
 **March 7 Links (3+):** <br>
 https://edu.defdc.com/  <br>
 https://tststststststststststststststststststststs.zavoj.ch/    <br>
