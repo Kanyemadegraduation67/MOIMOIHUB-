@@ -19,6 +19,8 @@ This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com li
 ## Updates/Changes:
 Added first few links.
 Formatted the Github Page.
+Links added in the update are **guranteed** to be working as of that day. <br>
+However, links added in previous updates sometimes **stops working** after a while. <br>
 
 ## Shortcuts & Table of Contents:
 **Bolded ones are HIGHLY RECOMMENDED (useful, flourishing)** <br>
@@ -28,4 +30,20 @@ Stable :white_check_mark:- has working links, site has activity and updates. <br
 Unstable / Varying :grimacing: - most links work, some are down, site sometimes updates. <br>
 Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop working.  <br>
 Fresh :sunglasses: - The site was recently made and newly added! <br>
+
+### Doge Unblocker | Proxy, Games, Apps
+#### Status: Flourishing :100: 
+Disclaimer: Has ads <br>
+**March 7 Links (2+):** <br>
+https://again.devmon.ru/           <br>
+https://uhh.cybdyn.com/               <br>
+
+### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
+#### Status: Flourishing :100:
+**March 7 Links (3+):** <br>
+https://edu.defdc.com/
+https://tststststststststststststststststststststs.zavoj.ch/
+https://mynameis.veronicabazan.cl/
+
+
 
