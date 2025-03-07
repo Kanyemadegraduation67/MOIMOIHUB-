@@ -69,8 +69,9 @@ https://work.veronicabazan.cl/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
-**March 7 Links (1+):** <br>
+**March 7 Links (2+):** <br>
 https://usewaves.site/ <br>
+https://learning.veronicabazan.cl/ <br> 
 
 
 
