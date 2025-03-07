@@ -57,10 +57,13 @@ Go to Settings Proxys and Switch to Scramjet for a better experience.
 #### Status:   Fresh :sunglasses:
 **March 7 Links (1+):** <br>
 https://lunaron.top <br>
-https://friends-are.awesome.yukon.ar/ <br?
+https://friends-are.awesome.yukon.ar/ <br>
 
 ### Utopia Proxy | Proxy, Games, ChatGPT 4
 #### Status: Flourishing :100:
+**March 7 Links (2+):** <br>
+https://sakosako.kaiak.top/ <br>
+https://in.thepad.net    <br>
 
 
 
