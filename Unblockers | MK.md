@@ -33,7 +33,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 
 - **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps - Best proxy | Flourishing :100:
 - **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Flourishing :100:
-- **1+** [**Lunar Proxy**](#lunar-unblocker-games-apps) - Proxy, Games, Apps | Status: Flourishing :100:
+- **1+** [**Lunar Proxy**](#lunar-unblocker--games-apps) - Proxy, Games, Apps | Status: Flourishing :100:
 
   
 
