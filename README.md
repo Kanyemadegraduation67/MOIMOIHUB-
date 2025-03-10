@@ -9,4 +9,4 @@ This will be Updated Daily. <br>
 
 DM me on Discord if you need anything [redokamihdalgo8584] <br>
 
-If any of the Links arent working make sure to open a Issue and Lmk.  <br?
+If any of the Links arent working make sure to open a Issue and Lmk.  <br>
