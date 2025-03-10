@@ -35,7 +35,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps -  Proxy | Status: Stable :white_check_mark:
 - **4+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **4+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
-- **4+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
+- **5+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
 - **4+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
 
   
@@ -66,11 +66,12 @@ https://sciencecalc.veronicabazan.cl/ <br>
 
 ### Utopia Proxy | Proxy, Games, ChatGPT 4
 #### Status: Flourishing :100:
-**Tested March 10 (4+):** <br>
+**Tested March 10 (5+):** <br>
 https://sakosako.kaiak.top/ <br>
 https://in.thepad.net    <br>
 https://work.veronicabazan.cl/ <br>
 https://htoiisgay.veronicabazan.cl/ <br>
+https://hippo.teamoptimization.com/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
