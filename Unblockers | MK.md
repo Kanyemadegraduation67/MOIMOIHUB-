@@ -33,7 +33,7 @@ Ghosted :no_entry_sign: - site is inactive, most links work but likely to stop w
 Fresh :sunglasses: - The site was recently made and newly added! <br>
 
 - **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps -  Proxy | Status: Stable :white_check_mark:
-- **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
+- **4+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **4+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
 - **4+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
 - **4+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
@@ -49,10 +49,11 @@ https://uhh.cybdyn.com/               <br>
 
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 #### Status: Stable :white_check_mark:
-**Tested March 10 (3+):** <br>
+**Tested March 10 (4+):** <br>
 https://edu.defdc.com/  <br>
 https://tststststststststststststststststststststs.zavoj.ch/    <br>
 https://mynameis.veronicabazan.cl/     <br>
+https://massive-lowtaper.veronicabazan.cl/ <br>
 
 ### Lunar Unblocker | Proxy, Games, Apps
 Go to Settings Proxys and Switch to Scramjet for a better experience.
