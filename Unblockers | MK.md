@@ -82,7 +82,7 @@ https://learning.veronicabazan.cl/ <br>
 https://skills.thepad.net/ <br>
 https://tutoring.devmon.ru/ <br>
 
-### Bolt | Proxy, AI, Apps, Games
+### Bolt | Proxy, Apps, Games
 #### Status: Fresh :sunglasses:
 **Tested March 10 (1+):** <br>
 https://matheducation.veronicabazan.cl/ <br>
