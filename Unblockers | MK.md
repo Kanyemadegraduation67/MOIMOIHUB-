@@ -10,7 +10,7 @@ This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com li
   Proxy: used for accessing websites that were blocked, searching anything up on Google, unrestricted and untrackable. <br>
  -->
 
-  #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/Mikhail110/LightspeedProxies/issues), I'll try to respond back ASAP. <br>
+  #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/Mikhail110/Unblockers-LS/issues), I'll try to respond back ASAP. <br>
 **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 **Announcements:**
