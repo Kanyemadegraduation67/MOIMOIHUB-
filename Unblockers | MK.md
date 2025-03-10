@@ -36,7 +36,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **3+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **4+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
 - **4+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
-- **2+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
+- **3+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
 
   
 
@@ -73,9 +73,10 @@ https://htoiisgay.veronicabazan.cl/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
-**Tested March 10 (2+):** <br>
+**Tested March 10 (3+):** <br>
 https://usewaves.site/ <br>
 https://learning.veronicabazan.cl/ <br> 
+https://skills.thepad.net/ <br>
 
 
 
