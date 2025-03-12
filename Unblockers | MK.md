@@ -57,21 +57,21 @@ https://tststststststststststststststststststststs.zavoj.ch/    <br>
 ### Lunar Unblocker | Proxy, Games, Apps
 Go to Settings Proxys and Switch to Scramjet for a better experience.
 #### Status:   Fresh :sunglasses:
-**Tested March 10 (3+):** <br>
+**Tested March 12 (3+):** <br>
 https://lunaron.top <br>
 https://friends-are.awesome.yukon.ar/ <br>
 https://mathtutor.yukon.ar/ <br>
 
 ### Utopia Proxy | Proxy, Games, ChatGPT 4
 #### Status: Flourishing :100:
-**Tested March 10 (3+):** <br>
+**Tested March 12 (3+):** <br>
 https://sakosako.kaiak.top/ <br>
 https://in.thepad.net    <br>
 https://hippo.teamoptimization.com/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
-**Tested March 10 (3+):** <br>
+**Tested March 12 (3+):** <br>
 https://usewaves.site/ <br>
 https://skills.thepad.net/ <br>
 https://tutoring.devmon.ru/ <br>
