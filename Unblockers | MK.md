@@ -1,4 +1,4 @@
-# MKHub > Main Links | updated Mar 10th
+# MKHub > Main Links | updated Mar 12h
 ## If you like this list, make sure to star this repository!
 This is a collection of links of proxies
 
@@ -50,35 +50,29 @@ https://uhh.cybdyn.com/               <br>
 
 ### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
 #### Status: Stable :white_check_mark:
-**Tested March 10 (4+):** <br>
+**Tested March 12 (2+):** <br>
 https://edu.defdc.com/  <br>
 https://tststststststststststststststststststststs.zavoj.ch/    <br>
-https://mynameis.veronicabazan.cl/     <br>
-https://massive-lowtaper.veronicabazan.cl/ <br>
 
 ### Lunar Unblocker | Proxy, Games, Apps
 Go to Settings Proxys and Switch to Scramjet for a better experience.
 #### Status:   Fresh :sunglasses:
-**Tested March 10 (+4):** <br>
+**Tested March 10 (+3):** <br>
 https://lunaron.top <br>
 https://friends-are.awesome.yukon.ar/ <br>
 https://mathtutor.yukon.ar/ <br>
-https://sciencecalc.veronicabazan.cl/ <br>
 
 ### Utopia Proxy | Proxy, Games, ChatGPT 4
 #### Status: Flourishing :100:
-**Tested March 10 (5+):** <br>
+**Tested March 10 (3+):** <br>
 https://sakosako.kaiak.top/ <br>
 https://in.thepad.net    <br>
-https://work.veronicabazan.cl/ <br>
-https://htoiisgay.veronicabazan.cl/ <br>
 https://hippo.teamoptimization.com/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
-**Tested March 10 (4+):** <br>
+**Tested March 10 (3+):** <br>
 https://usewaves.site/ <br>
-https://learning.veronicabazan.cl/ <br> 
 https://skills.thepad.net/ <br>
 https://tutoring.devmon.ru/ <br>
 
