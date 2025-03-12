@@ -14,6 +14,7 @@ This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com li
 **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 **Announcements:**
+- **3/12 - Removed some blocked Proxys and Added Some
 - **3/10 - Adding More Unblockers for all Proxys and adding new ones.**
 - **3/6 - Adding some links today LOTS more to come.**
 
@@ -37,8 +38,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **4+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
 - **5+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
 - **4+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
-- **1+** [**Bolt**](#bolt--proxy-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
-
+  
   
 
 ### Doge Unblocker | Proxy, Games, Apps
@@ -81,11 +81,6 @@ https://usewaves.site/ <br>
 https://learning.veronicabazan.cl/ <br> 
 https://skills.thepad.net/ <br>
 https://tutoring.devmon.ru/ <br>
-
-### Bolt | Proxy, Apps, Games
-#### Status: Fresh :sunglasses:
-**Tested March 10 (1+):** <br>
-https://matheducation.veronicabazan.cl/ <br>
 
 
 
