@@ -72,10 +72,10 @@ https://hippo.teamoptimization.com/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
-**Tested March 12 (3+):** <br>
-https://usewaves.site/ <br>
-https://skills.thepad.net/ <br>
-https://tutoring.devmon.ru/ <br>
+**Tested April 15th (3+):** <br>
+https://usewaves.site <br>
+https://ijustdidthattho.agroconsultingclub.ro/ <br>
+https://youcankeeptrainingandplaying.agroconsultingclub.ro/ <br>
 
 
 
