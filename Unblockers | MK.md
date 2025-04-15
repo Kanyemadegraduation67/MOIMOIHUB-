@@ -37,7 +37,7 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
 - **2+** [**Doge Unblocker**](#doge-unblocker--proxy-games-apps) - Proxy, Games, Apps -  Proxy | Status: Stable :white_check_mark:
 - **2+** [**Interstellar**](#interstellar--games-apps-and-proxy--make-sure-to-allow-pop-ups-and-redirects) - Proxy, Games, Apps | Status: Stable :white_check_mark:
 - **3+** [**Lunar Proxy**](#lunar-unblocker--proxy-games-apps) - Proxy, Games, Apps | Status:   Fresh  :sunglasses:
-- **3+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
+- **1+** [**Utopia Unblocker**](#utopia-proxy--proxy-games-chatgpt-4) - Proxy, Games, Apps | Status:   Flourishing  :100:
 - **3+** [**Waves**](#waves--proxy-ai-apps-games) - Proxy, AI, Apps, Games | Status: Fresh :sunglasses:
   
   
@@ -65,10 +65,8 @@ https://mathtutor.yukon.ar/ <br>
 
 ### Utopia Proxy | Proxy, Games, ChatGPT 4
 #### Status: Flourishing :100:
-**Tested March 12 (3+):** <br>
-https://sakosako.kaiak.top/ <br>
-https://in.thepad.net    <br>
-https://hippo.teamoptimization.com/ <br>
+**Tested April 15 (1+):** <br>
+https://shunlp12984.bigdogz.com/ <br>
 
 ### Waves | Proxy, AI, Apps, Games
 #### Status: Fresh :sunglasses:
