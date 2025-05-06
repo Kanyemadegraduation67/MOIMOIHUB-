@@ -1,24 +1,20 @@
-# MKHub > Main Links | updated Apr 15th
-## If you like this list, make sure to star this repository!
+MOIMOIHUB THE GOAT
+## If you like this list IDC 
 This is a collection of links of proxies
 
 ---
 
 ### Be sure to scroll all the way down for ALL links. 
-This list IS **FREE FROM** github.io, vercel.app, glitch.me, and onrender.com links. <br>
+This list IS DEFINITLY NOT PIRACY
  <!--
   Proxy: used for accessing websites that were blocked, searching anything up on Google, unrestricted and untrackable. <br>
  -->
 
-  #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/Mikhail110/Unblockers-LS/issues), I'll try to respond back ASAP. <br>
+  #### Link not working? Any Suggestions? Feel free to make an [issue](https://github.com/BBLDRIZZY/Unblockers-LS/issues), I'll try to respond back ASAP. <br>
 **FYI:** Links that have a **'NEW'** tag means that it was **added recently (one week or less)**
 <br> <br>
 **Announcements:**
-- **4/15 - Back from a break going to fix this now.
-- **3/12 - Removed some blocked Proxys and Added Some
-- **3/10 - Adding More Unblockers for all Proxys and adding new ones.**
-- **3/6 - Adding some links today LOTS more to come.**
-
+5/6 FORKED THE ORIGINAL AND I REFUSE TO GIVE ORIGINAL CREDIT EVEN IF LEGAL ACTION IS INVOLVED 
 ## Updates/Changes:
 Added first few links.
 Formatted the Github Page.
@@ -42,20 +38,20 @@ Fresh :sunglasses: - The site was recently made and newly added! <br>
   
   
 
-### Doge Unblocker | Proxy, Games, Apps
+GARBAGE
 #### Status: Stable :100: 
 Disclaimer: Has ads <br>
 **Tested March 10 (2+):** <br>
 https://again.devmon.ru/           <br>
 https://uhh.cybdyn.com/               <br>
 
-### Interstellar | Games, Apps, and Proxy | Make sure to allow pop-ups and redirects
+BUNS
 #### Status: Stable :white_check_mark:
 **Tested March 12 (2+):** <br>
 https://edu.defdc.com/  <br>
 https://tststststststststststststststststststststs.zavoj.ch/    <br>
 
-### Lunar Unblocker | Proxy, Games, Apps
+THE GOAT 
 Go to Settings Proxys and Switch to Scramjet for a better experience.
 #### Status:   Fresh :sunglasses:
 **Tested March 12 (3+):** <br>
@@ -63,12 +59,12 @@ https://lunaron.top <br>
 https://friends-are.awesome.yukon.ar/ <br>
 https://mathtutor.yukon.ar/ <br>
 
-### Utopia Proxy | Proxy, Games, ChatGPT 4
+TRASH
 #### Status: Flourishing :100:
 **Tested April 15 (1+):** <br>
 https://shunlp12984.bigdogz.com/ <br>
 
-### Waves | Proxy, AI, Apps, Games
+BUNS PROXY
 #### Status: Fresh :sunglasses:
 **Tested April 15th (3+):** <br>
 https://usewaves.site <br>
