@@ -1,4 +1,4 @@
-## Unblockers | LS
+ONLY LUNAR WORKS FOR LIGHTSPEED🔥🔥🔥
 ## If you like this collection, your homeless
 This is a collection of all the Unblocked Proxy Links that I could find specifically for Lightspeed.
 half of these are buns
